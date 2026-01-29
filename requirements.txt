@@ -1,0 +1,33 @@
+# Core data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning & Deep Learning
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.14.0
+scikit-learn>=1.3.0
+
+# NLP libraries
+sentence-transformers>=2.2.0
+bertopic>=0.15.0
+hdbscan>=0.9.0
+pymorphy3>=2.0.0
+nltk>=3.8.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+tqdm>=4.65.0
+
+# Excel file handling
+openpyxl>=3.1.0
+
+# Web scraping
+yandex-reviews-parser>=1.0.0
+
+# Dimensionality reduction (optional, used in some notebooks)
+umap-learn>=0.5.3
+
